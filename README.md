@@ -10,8 +10,11 @@ A network of spatially distributed data centers can provide operational flexibil
 
 # Usage
 
-To be added 
+All models are implemented in Julia Language v.1.8 using [JuMP](https://github.com/jump-dev/JuMP.jl) modeling language for mathematical optimization and commercial [Mosek](https://github.com/MOSEK/Mosek.jl) and [Gurobi](https://github.com/jump-dev/Gurobi.jl) optimization solvers, which needs to be licensed (free for academic use). Also be sure to active project environment using ```Project.toml``` and ```Manifest.toml```. The main execution file is ```main.jl```, which computes the Power-NetDC coordination costs for varying NetDC penetration levels and the maximum allowable latency loss.  
 
 # Citation
 
 To be added 
+
+
+
