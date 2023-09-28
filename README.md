@@ -6,9 +6,10 @@ This online repository is associated with the paper titled [*Agent Coordination 
 
 A network of spatially distributed data centers can provide operational flexibility to power systems by shifting computing tasks among electrically remote locations. However, harnessing this flexibility in real-time through the standard optimization techniques is challenged by the need for sensitive operational datasets and substantial computational resources. To alleviate the data and computational requirements, this paper introduces a coordination mechanism based on contextual regression. This mechanism, abbreviated as AgentCONCUR, associates cost-optimal task shifts with public and trusted contextual data (e.g., real-time prices) and uses regression on this data as a coordination policy. Notably, regression-based coordination does not learn the optimal coordination actions from a labeled dataset. Instead, it exploits the optimization structure of the coordination problem to ensure feasible and cost-effective actions. A NYISO-based study reveals large coordination gains and the optimal features for the successful regression-based coordination.
 
-![pic](https://github.com/wdvorkin/AgentCONCUR/assets/31773955/6417c329-40cd-4d6b-95a0-458a98986643)
+<img width="961" src="https://github.com/wdvorkin/AgentCONCUR/assets/31773955/dd220b77-86d0-437b-8578-bdcfabb811e9">
 
 # Citation
+
 
 To be added 
 
