@@ -1,6 +1,6 @@
 # AgentCONCUR
 
-This online repository is associated with the paper titled [*Agent Coordination via Contextual Regression (AgentCONCUR) for Data Center Flexibility*](https) submitted to the XXIII Power System Computational Conference. This repository is intended to provide supplementary materials, code, data, and resources to facilitate the understanding and replication of our results. If you use these materials, please be sure to cite the paper accordingly.
+This online repository is associated with the paper titled [*Agent Coordination via Contextual Regression (AgentCONCUR) for Data Center Flexibility*](https) submitted to the XXIII Power System Computational Conference. This repository is intended to provide supplementary materials, code, data, and resources to facilitate the understanding and replication of the results. If you use these materials, please be sure to cite the paper accordingly.
 
 # Abstract 
 
