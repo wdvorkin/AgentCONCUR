@@ -1,6 +1,6 @@
 # AgentCONCUR
 
-This online repository is associated with the paper titled [*Agent Coordination via Contextual Regression (AgentCONCUR) for Data Center Flexibility*](https) submitted to the XXIII Power System Computational Conference. This repository is intended to provide supplementary materials, code, data, and resources to facilitate the understanding and replication of the results. If you use these materials, please be sure to cite the paper accordingly.
+This online repository is associated with the paper titled [*Agent Coordination via Contextual Regression (AgentCONCUR) for Data Center Flexibility*](https://arxiv.org/abs/2309.16792) submitted to the XXIII Power System Computational Conference. This repository is intended to provide supplementary materials, code, data, and resources to facilitate the understanding and replication of the results. If you use these materials, please be sure to cite the paper accordingly.
 
 # Abstract 
 
@@ -9,9 +9,16 @@ A network of spatially distributed data centers can provide operational flexibil
 <img width="961" src="https://github.com/wdvorkin/AgentCONCUR/assets/31773955/dd220b77-86d0-437b-8578-bdcfabb811e9">
 
 # Citation
-
-
-To be added 
+```
+@misc{dvorkin2023agent,
+      title={Agent Coordination via Contextual Regression (AgentCONCUR) for Data Center Flexibility}, 
+      author={Vladimir Dvorkin},
+      year={2023},
+      eprint={2309.16792},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
+}
+```
 
 # Usage
 
